@@ -1,4 +1,4 @@
-# Lenovo-Xiaoxin-Air-15-2019-IWL-Hacintosh
+# Lenovo-Xiaoxin-Air-15-2019-IWL-Hackintosh
  
 ## Description
 * OpenCore 0.6.2 beta is used in this repository, can both boot Catalina and Big Sur (Tested).
